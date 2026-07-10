@@ -1,4 +1,4 @@
-const M3U_CONTENT = `#EXTM3U
+#EXTM3U
 #EXTINF:-1 group-title="FIFA World Cup 2026",FOX 01
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/109548
 #EXTINF:-1 group-title="FIFA World Cup 2026",FOX 02
@@ -32,7 +32,7 @@ http://wickediptv.xyz/Randall123/Randall321/53805
 #EXTINF:-1 group-title="FIFA World Cup 2026",TSN1 CA 05
 http://29047.performservers.cz/ozant/1sj8i79hk3/356400
 #EXTINF:-1 group-title="FIFA World Cup 2026",TSN2 CA
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/1622
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/1623
 #EXTINF:-1 group-title="FIFA World Cup 2026",TSN3 CA
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/1623
 #EXTINF:-1 group-title="FIFA World Cup 2026",TSN4 CA
@@ -115,26 +115,21 @@ http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465863
 http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465861
 #EXTINF:-1 group-title="FIFA World Cup 2026",TSN 4K
 http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465866
-#EXTINF:-1 group-title="FIFA World Cup 2026",Channel 465842
+#EXTINF:-1 group-title="FIFA World Cup 2026",FIFAWC 2026 Alternate 01
 http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465842
-#EXTINF:-1 group-title="FIFA World Cup 2026",Channel 465845
+#EXTINF:-1 group-title="FIFA World Cup 2026",FIFAWC 2026 Alternate 02
 http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465845
-#EXTINF:-1 group-title="FIFA World Cup 2026",Channel 465848
+#EXTINF:-1 group-title="FIFA World Cup 2026",FIFAWC 2026 Alternate 03
 http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465848
-#EXTINF:-1 group-title="FIFA World Cup 2026",Channel 465855
+#EXTINF:-1 group-title="FIFA World Cup 2026",FIFAWC 2026 Alternate 04
 http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465855
-#EXTINF:-1 group-title="FIFA World Cup 2026",Channel 465856
+#EXTINF:-1 group-title="FIFA World Cup 2026",FIFAWC 2026 Alternate 05
 http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465856
-#EXTINF:-1 group-title="FIFA World Cup 2026",Channel 465858
+#EXTINF:-1 group-title="FIFA World Cup 2026",FIFAWC 2026 Alternate 06
 http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465858
-#EXTINF:-1 group-title="FIFA World Cup 2026",Channel 465859
+#EXTINF:-1 group-title="FIFA World Cup 2026",FIFAWC 2026 Alternate 07
 http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465859
-#EXTINF:-1 group-title="FIFA World Cup 2026",Channel 465873
+#EXTINF:-1 group-title="FIFA World Cup 2026",FIFAWC 2026 Alternate 08
 http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465873
-#EXTINF:-1 group-title="FIFA World Cup 2026",Channel 465875
+#EXTINF:-1 group-title="FIFA World Cup 2026",FIFAWC 2026 Alternate 09
 http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465875
-`;
-
-export default {
-  M3U_CONTENT
-};
